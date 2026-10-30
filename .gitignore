@@ -1,0 +1,27 @@
+# Gradle y Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Sistema
+.DS_Store
+Thumbs.db
+app
+bin
+docs
+ARCHITECTURE.md
+PROJECT_CONTEXT.md
+manifest.json
+CRITERIOS.md
+skills-diseno.txt
+sauma.json
+SAUMA.md
+SAUMA.es.md
+/LanShare-Android.txt
+/.LanShare-Android.txt.*.tmp
